@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</CPRegKey>
+<EXELocation>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\LXR_A.sui</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\LXR_B.sui</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Watchdll.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_GM.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_Mode1.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_Mode2.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_Mode3.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_Mode4.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Default_Mode5.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\GM.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Mode1.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Mode2.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Mode3.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Mode4.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure\Mode5.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Default_Mode1_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Default_Mode2_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Default_Mode3_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Default_Mode4_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Default_Mode5_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Mode1_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Mode2_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Mode3_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Mode4_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data\Mode5_data.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\1028\Traditional Chinese.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\1033\English.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\2052\Simplified Chinese.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\10Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\4Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\5Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\7Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\8Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\9Keys.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\basemap - ¸±±¾.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\basemap.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\basemap33.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\btn_base.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\dpi_base.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\led_base.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\led_base_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\led_base_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\led_base_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_base.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn1_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn1_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn1_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn2_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn2_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn2_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn3_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn3_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn3_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn4_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn4_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn4_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn5_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn5_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\macro_btn5_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\mode_base_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\mode_base_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\mode_base_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\other.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\report_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\report_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\sys_base.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\Thumbs.db</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\title_base_1.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\title_base_2.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins\title_base_3.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Documents and Settings\Administrator\×ÀÃæ\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯.lnk</Filename>
+<Filename>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯.lnk</Filename>
+<Filename>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Uninstall ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Uninstall\IRIMG2.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\Uninstall</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\configure</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\data</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\1028</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\1033</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\language\2052</FolderPath>
+<FolderPath>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯\skins</FolderPath>
+<FolderPath>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2012 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Program Files\ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>ÂÞÄ¦G9ÓÎÏ·ÊóÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\Application Data</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\Application Data</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\×ÀÃæ</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\×ÀÃæ</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\WINDOWS\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\Æô¶¯</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\Æô¶¯</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Documents and Settings\All Users\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ\My Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ\My Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\Documents\My Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\WINDOWS\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\WINDOWS</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ir_sf_temp_4</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>Î¢ÈíÓÃ»§</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value>Î¢ÈíÖÐ¹ú</Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>Administrator</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>LM-01</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\Application Data</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\×ÀÃæ</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌÐò\Æô¶¯</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ\My Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>D:\ÎÒµÄÎÄµµ\My Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>F:\°Ù¶ÈÔÆ\°Ù¶ÈÔÆÍ¬²½ÅÌ\ÂÞÄ¦Êó±êÇý¶¯\ÂÞÄ¦G5ÓÎÏ·ÊóÇý¶¯.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>F:\°Ù¶ÈÔÆ\°Ù¶ÈÔÆÍ¬²½ÅÌ\ÂÞÄ¦Êó±êÇý¶¯</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>F:</Value>
+</Var>
+<Var>
+<Name>%UserName%</Name>
+<Value>Î¢ÈíÓÃ»§</Value>
+</Var>
+<Var>
+<Name>%UserCompany%</Name>
+<Value>Î¢ÈíÖÐ¹ú</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>41.38 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>4.81 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
